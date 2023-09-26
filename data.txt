@@ -1,0 +1,5 @@
+1				jasjeet chatha			100				100				200			PASS
+2				aryan kumar			84				77				80.0			Pass
+3				jaskaran singh			66				77				71.0			Pass
+4				bunta singh			45				32				38.0			Fail
+6				kiranjeet singh			44				48				46.0			Fail
